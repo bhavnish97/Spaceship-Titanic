@@ -1,2 +1,2 @@
 # Spaceship-Titanic
-The Machine learning model to predict which passengers are transported to an alternate dimension.
+The Machine learning model to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly
